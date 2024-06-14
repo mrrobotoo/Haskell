@@ -1,4 +1,3 @@
--- laem.hs
 
 sumaElementosImpares :: [Int] -> Int
 sumaElementosImpares lista = sum [x | x <- lista, odd x]

@@ -1,4 +1,3 @@
--- laem.hs
 
 sumaElementos :: [Int] -> Int
 sumaElementos lista = sum [x | x <- lista, even x]
