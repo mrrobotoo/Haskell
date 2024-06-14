@@ -191,14 +191,14 @@ Descripción: Una función que de manera recursiva realiza el cálculo de la sig
 9
 90
 ​
- +⋯
+
+
 
 Ejecución
 Para ejecutar las funciones, primero compila el archivo Haskell y luego ejecuta el programa:
 
-sh
-Copiar código
 ghc -o mi_programa laem.hs
 ./mi_programa
+
 Contribuciones
 Si deseas contribuir a este repositorio, por favor, haz un fork del proyecto, crea una nueva rama para tu funcionalidad o corrección de errores, realiza tus cambios y envía un pull request.
