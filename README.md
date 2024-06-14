@@ -16,10 +16,10 @@ Descripción: Una función que recibe una lista de 10 elementos y muestra la sum
 
 Ejemplo:
 
-haskell
-Copiar código
 lista = [3, 5, 4, 8, 3, 2, 11, 10, 7, 6]
 -- La función regresa: 29
+
+
 3. Distancia entre Dos Puntos
 Descripción: Una función que recibe dos pares ordenados de puntos y calcula la distancia entre esos dos puntos. La distancia entre dos puntos está dada por la siguiente fórmula:
 𝑑
@@ -55,8 +55,7 @@ Descripción: Una función que de manera recursiva realiza el cálculo de elevar
 
 Ejemplo:
 
-haskell
-Copiar código
+
 Numero: 5
 N = 6
 -- Significa hacer: 5 * 5 * 5 * 5 * 5 * 5
